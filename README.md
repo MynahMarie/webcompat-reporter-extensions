@@ -84,3 +84,4 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 Icons derived from work licensed under Creative Commons Attribution:
 
 * Light Bulb by Jean-Philippe Cabaroc from The Noun Project
+
